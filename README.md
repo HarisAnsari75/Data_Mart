@@ -19,7 +19,7 @@ The project utilizes the following key tables:
 ### Main Tables
 - sales_data: Core sales transactions
 - customers: Customer information
-- products: Product catalog
+- segmesnts: C=Couple(1,2,3,4), F=Family(1,2,3,4)
 - regions: Geographic sales regions
 - platforms: Sales channel details
 
